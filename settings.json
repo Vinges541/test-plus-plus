@@ -1,0 +1,12 @@
+{
+  "teachers": {
+    "count": 2,
+    "salary": 100,
+    "premium_rate": 0.1
+  },
+  "assistants": {
+    "count": 1,
+    "salary": 75,
+    "premium_rate": 0.1
+  } 
+}
